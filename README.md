@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Yura Seredyuk
-- 🎯 Result-oriented Frontend developer can write layout using semantic HTML5 tags and style it with various CSS approaches such as Flexbox, CSS-Grid, and so on. I’m also familiar with ES6-ES10 features, fetch, Promise, CSS-animation, media-queries, BEM. 
-Moreover, I am interested in learning new technologies, finding optimal solutions, and applying them to projects; I wish to conquer new heights and improve my knowledge and skills.
-- 🌱 I’m currently learning React.js, JavaScript Node.js and Express.js
+- 👋 Hi, I'm Yurii, a full-stack developer with over 3 years of commercial experience.
+- 🎯 My tech stack is - React, Next and NodeJS, MongoDB, Firebase, and React Native.
+- 🌱 My latest projects are a Saas application for project management, a platform for flight booking, and a mobile sporting application.
+- ⭐ I’m a responsible and client-oriented person. I like challenging tasks and interesting projects where I can bring value and learn something new.
+- 💨 Do not hesitate to reach out to me, I will gladly discuss your project. Thank you.
 - 📫 How to reach me yura.seredyuk0@gmail.com
-
 <!---
 yura0seredyuk/yura0seredyuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
